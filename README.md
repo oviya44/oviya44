@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Oviya 👋
 
-<!--
-**oviya44/oviya44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 M.Tech CSE Student
 
-Here are some ideas to get you started:
+## Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Artificial Intelligence & Machine Learning
+- Data Engineering
+- Software Development
+- Cloud Computing
+- DevOps
+
+## Currently Learning
+
+- Deep Learning
+- Data Engineering
+- Cloud Technologies
+
+## Projects
+
+- Voice Cloning Alert System
+- Smart Food Quality Rating System
+
+## Goal
+
+To build intelligent and scalable software solutions using AI, Cloud and Modern Engineering Practices.
